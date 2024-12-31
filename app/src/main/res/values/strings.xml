@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">M204_MapBox_1</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoib3VhcmRpamFtYWwiLCJhIjoiY201YjVucmY3Mm9jMjJuczJ4Y2Q3Z3IzYSJ9.O_cqjBf-sltBRMYUBMVR4w</string>
+</resources>
